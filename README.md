@@ -1,7 +1,7 @@
 # Soft Alignment of Functional Data Using Shapes and Landmarks
 
 <p align="center">
-<img src="/demo/pairwise_soft.gif" align="middle" width="400">
+<img src="/demo/pairwise_soft.gif" align="middle" width="600">
 </p>
 
 ## Get Started
